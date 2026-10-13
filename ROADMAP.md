@@ -243,17 +243,17 @@ Utilizar esta seção para registrar conceitos que aprendi durante a evolução 
 
 ## Python
 
-- [ ] Variáveis
-- [ ] Condicionais
-- [ ] Loops
-- [ ] Funções
-- [ ] Listas
-- [ ] Dicionários
-- [ ] Tuplas
-- [ ] Exceções
-- [ ] Módulos
-- [ ] Arquivos
-- [ ] Programação Orientada a Objetos
+- [x] Variáveis
+- [x] Condicionais
+- [x] Loops
+- [x] Funções
+- [x] Listas
+- [x] Dicionários
+- [x] Tuplas
+- [x] Exceções
+- [x] Módulos
+- [x] Arquivos
+- [x] Programação Orientada a Objetos
 
 ## Bibliotecas / Tecnologias
 
